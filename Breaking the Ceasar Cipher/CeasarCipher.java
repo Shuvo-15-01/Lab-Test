@@ -1,4 +1,4 @@
-package com.Ebu;
+package com.Shuvo;
 import edu.duke.*;
  class CaesarCipher {
     private char[] lowercase, uppercase;
