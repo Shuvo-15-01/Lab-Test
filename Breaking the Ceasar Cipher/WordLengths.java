@@ -1,4 +1,4 @@
-package com.Ebu;
+package com.Shuvo;
 import edu.duke.*;
 import java.util.Scanner;
 public class WordLengths {
